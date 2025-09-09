@@ -1,5 +1,4 @@
 ﻿* {
-	width: 100%;
 	max-width: 1440px;
 	margin: 0 auto;
 	overflow: auto;
@@ -1023,4 +1022,5 @@
 	.container-foot a{
 		text-align: center;
 	}
+
 }
